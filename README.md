@@ -95,5 +95,3 @@ The approach is best described as **discretionary, macro-aware ETF allocation an
 Terminology in this repository distinguishes capital deployed from leverage-adjusted exposure, capital-allocation hedge ratios from effective hedge ratios, relative-value trades from arbitrage, and unadjusted relative performance from alpha.
 
 > These materials document a competition process for educational and portfolio purposes. They are not investment advice.
-
-
